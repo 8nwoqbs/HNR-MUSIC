@@ -25,7 +25,7 @@ from BabyPlugs.queues import QUEUE, add_to_queue, get_queue, clear_queue, pop_an
 from BabyPlugs.admin_check import *
 
 bot = Client(
-    "Baby Girl",
+    "Hnr music",
     bot_token = os.environ["BOT_TOKEN"],
     api_id = int(os.environ["API_ID"]),
     api_hash = os.environ["API_HASH"]
@@ -48,13 +48,13 @@ START_TEXT = """
 ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : /
 ┏━━━━━━━━━━━━━━━━┓
 ┣★
-┣★ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](tg://user?id=1356469075)
+┣★ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [亗『☆♡N⋆A⋆I⋆R⋆A™♡☆』亗](tg://user?id=5260267216)
 ┣★
-┣★ ᴏᴡɴᴇʀ : [ɪᴛ's ᴍᴇ ʙᴀʙʏ​](tg://user?id={})
+┣★ ᴏᴡɴᴇʀ : [ɪᴛ's ᴍᴇ ʙᴀʙʏ​](tg://user?id=5260267216)
 ┣★
 ┗━━━━━━━━━━━━━━━━┛
 
-💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](tg://user?id={}) ʙᴀʙʏ...
+💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](tg://user?id=5260267216) ʙᴀʙʏ...
 ━━━━━━━━━━━━━━━━━━**
 """
 
@@ -65,14 +65,14 @@ START_BUTTONS = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton("✗ ʜᴇʟᴘ​ ✗", callback_data="cbcmds"),
-            InlineKeyboardButton("✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/anonymous_was_bot")
+            InlineKeyboardButton("✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/N_A_I_R_A_O_P")
         ],
         [
-            InlineKeyboardButton("✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/DevilsHeavenMF"),
-            InlineKeyboardButton("✗ ᴜᴘᴅᴀᴛᴇs ✗", url="https://t.me/DevilsHeavenMF")
+            InlineKeyboardButton("✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/RoyalFriendsforever"),
+            InlineKeyboardButton("✗ ᴜᴘᴅᴀᴛᴇs ✗", url="https://t.me/RoyalFriendsforever")
         ],
         [
-            InlineKeyboardButton("✗ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ ✗", url="https://github.com/AnonymousBoy1025/BabyGirlMusic")
+            InlineKeyboardButton("✗ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ ✗", url="https://github.com/Naira0011/HNRMUSIC")
         ]
     ]
 )
@@ -80,8 +80,8 @@ START_BUTTONS = InlineKeyboardMarkup(
 BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/DevilsHeavenMF"),
-            InlineKeyboardButton(text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/anonymous_was_bot")
+            InlineKeyboardButton(text="✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/RoyalFriendsforever"),
+            InlineKeyboardButton(text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/N_A_I_R_A_O_P")
         ]
     ]
 )
@@ -207,13 +207,13 @@ async def cbcmds(_, query: CallbackQuery):
 » /unmute - UnMute The Assistant On Voice Chat
 » /playlist - Show You The Playlist
 » /restart - Restart The Bot
-🥵 __𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘉𝘺 𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦__ 🥵""")
+❤︎ __𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘉𝘺 ᕼᑎᖇᗰᑌՏIᑕ__ ❤︎""")
 
 
 @bot.on_message(filters.command("start") & filters.private)
 async def start_private(_, message):
     msg = START_TEXT.format(message.from_user.mention, OWNER_ID, OWNER_ID)
-    await message.reply_photo(photo="https://telegra.ph/file/22ae93512721d5186932e.jpg",
+    await message.reply_photo(photo="https://te.legra.ph/file/a47a16a9822a8d39a9322.jpg",
                              caption = msg,
                              reply_markup = START_BUTTONS)
     
@@ -228,14 +228,14 @@ async def join_chat(c: Client, m: Message):
                 "https://t.me/+", "https://t.me/joinchat/"
             )
             await client.join_chat(invitelink)
-            return await client.send_message(chat_id, "🙂ᴀssɪsᴛᴀɴᴛ sᴜᴄᴄᴇssꜰᴜʟʟʏ ᴊᴏɪɴᴇᴅ ᴛʜᴇ ᴄʜᴀᴛ ʙᴀʙʏ.")
+            return await client.send_message(chat_id, "🥰ᴀssɪsᴛᴀɴᴛ sᴜᴄᴄᴇssꜰᴜʟʟʏ ᴊᴏɪɴᴇᴅ ᴛʜᴇ ᴄʜᴀᴛ ʙᴀʙʏ🥰.")
     except UserAlreadyParticipant:
-        return await client.send_message(chat_id, "🙂ᴀssɪsᴛᴀɴᴛ ᴀʟʀᴇᴀᴅʏ ᴊᴏɪɴᴇᴅ ᴛʜᴇ ᴄʜᴀᴛ ʙᴀʙʏ")
+        return await client.send_message(chat_id, "🥰ᴀssɪsᴛᴀɴᴛ ᴀʟʀᴇᴀᴅʏ ᴊᴏɪɴᴇᴅ ᴛʜᴇ ᴄʜᴀᴛ ʙᴀʙʏ🥰")
 
 
 @bot.on_message(filters.command("start") & filters.group)
 async def start_group(_, message):
-    await message.reply_photo(photo="https://telegra.ph/file/22ae93512721d5186932e.jpg",
+    await message.reply_photo(photo="https://te.legra.ph/file/a47a16a9822a8d39a9322.jpg",
                               caption = f"ʜᴇʏ 😘 {message.from_user.mention},\n ᴍᴇ ɪᴢ ᴅᴇᴅ ʙᴀʙʏ​ 😴",
                               reply_markup = BUTTONS)
 
@@ -317,7 +317,7 @@ async def skip(_, message):
         if op == 0:
             await message.reply_text("» ɴᴏᴛʜɪɴɢ ɪs ᴘʟᴀʏɪɴɢ ᴡʜᴀᴛ ᴛᴏ sᴋɪᴘ ʙᴀʙʏ 🥲")
         elif op == 1:
-            await message.reply_text("» ᴛʀᴀᴄᴋ sᴋɪᴘᴘᴇᴅ ʙʏ {} ʙᴀʙʏ🤔".format( message.from_user.mention ), )
+            await message.reply_text("» ᴛʀᴀᴄᴋ sᴋɪᴘᴘᴇᴅ ʙʏ {} ʙᴀʙʏ🤭".format( message.from_user.mention ), )
     else:
         skip = message.text.split(None, 1)[1]
         out = "🗑 <b>Removed the following song(s) from the queue:</b> \n"
@@ -382,7 +382,7 @@ async def pause(_, message):
     if chat_id in QUEUE:
         try:
             await app.pause_stream(chat_id)
-            await message.reply_text("» ᴛʀᴀᴄᴋ ᴘᴀᴜsᴇᴅ ʙʏ {} ʙᴀʙʏ😫".format( message.from_user.mention ), )
+            await message.reply_text("» ᴛʀᴀᴄᴋ ᴘᴀᴜsᴇᴅ ʙʏ {} ʙᴀʙʏ😔".format( message.from_user.mention ), )
         except:
             await message.reply_text("» ɴᴏᴛʜɪɴɢ ɪs ᴘʟᴀʏɪɴɢ ʙᴀʙʏ 🥱")
     else:
@@ -440,7 +440,7 @@ async def restart(_, message):
     if user_id != OWNER_ID:
         return
     await message.reply_text("🛠 <i>Restarting Music Player...</i>")
-    os.system(f"kill -9 {os.getpid()} && python3 babygirl.py")
+    os.system(f"kill -9 {os.getpid()} && python3 hnr.py")
             
 
 app.start()

@@ -5,11 +5,11 @@
     <a href="https://github.com/naira0011/HNRMUSIC/stargazers"><img src="https://img.shields.io/github/stars/Naira0011/HNRMUSIC?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/Naira0011/HNRMUSIC"> <img src="https://img.shields.io/github/repo-size/Naira0011/HNRMUSIC?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Naira0011/HNRMUSIC"> <img src="https://img.shields.io/github/last-commit/Naira0011/HNRMUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Naira0011/HNRMUSIC" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://github.com/Naira0011/HNRMUSIC"> <img src="https://img.shields.io/github/issues/Naira0011/HNRMUSIC?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Naira0011/HNRMUSIC"> <img src="https://img.shields.io/github/forks/Naira0011/HNRMUSIC?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/Princessop/HNRMUSIC"> <img src="https://img.shields.io/github/repo-size/Naira0011/HNRMUSIC?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Princessop/HNRMUSIC"> <img src="https://img.shields.io/github/last-commit/Naira0011/HNRMUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Princessop/HNRMUSIC" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
+    <a href="https://github.com/Princessop/HNRMUSIC"> <img src="https://img.shields.io/github/issues/Naira0011/HNRMUSIC?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Princessop/HNRMUSIC"> <img src="https://img.shields.io/github/forks/Naira0011/HNRMUSIC?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 

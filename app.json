@@ -3,7 +3,7 @@
   "description": "A Telegram Bot To Play Songs In Telegram Group Video Chats. Powered by PyTGCalls.",
   "keywords": ["Music", " Videochat", "Voicechat", "Telegram"],
   "logo": "https://te.legra.ph/file/a47a16a9822a8d39a9322.jpg",
-  "repository": "https://github.com/Naira001/HNR-MUSIC",
+  "repository": "https://github.com/Princessop/HNR-MUSIC",
   "stack": "container",
   "env": {
     "SESSION_NAME": {

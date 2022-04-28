@@ -48,9 +48,9 @@ START_TEXT = """
 ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : /
 ┏━━━━━━━━━━━━━━━━┓
 ┣★
-┣★ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [亗『☆♡N⋆A⋆I⋆R⋆A™♡☆』亗](tg://user?id=5260267216)
+┣★ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [◦•●❤♡ 𝙋𝙍𝙄𝙉𝘾𝙀𝙎𝙎 ♡❤●•◦](tg://user?id=5331072307)
 ┣★
-┣★ ᴏᴡɴᴇʀ : [ɪᴛ's ᴍᴇ ʙᴀʙʏ​](tg://user?id=5260267216)
+┣★ ᴏᴡɴᴇʀ : [ɪᴛ's ᴍᴇ ʙᴀʙʏ​](tg://user?id=5331072307)
 ┣★
 ┗━━━━━━━━━━━━━━━━┛
 
@@ -65,14 +65,14 @@ START_BUTTONS = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton("✗ ʜᴇʟᴘ​ ✗", callback_data="cbcmds"),
-            InlineKeyboardButton("✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/N_A_I_R_A_O_P")
+            InlineKeyboardButton("✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/DAD_KI_PRINCESS")
         ],
         [
             InlineKeyboardButton("✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/RoyalFriendsforever"),
             InlineKeyboardButton("✗ ᴜᴘᴅᴀᴛᴇs ✗", url="https://t.me/RoyalFriendsforever")
         ],
         [
-            InlineKeyboardButton("✗ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ ✗", url="https://github.com/Naira0011/HNRMUSIC")
+            InlineKeyboardButton("✗ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ ✗", url="https://github.com/Princessop/HNRMUSIC")
         ]
     ]
 )
@@ -81,7 +81,7 @@ BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(text="✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/RoyalFriendsforever"),
-            InlineKeyboardButton(text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/N_A_I_R_A_O_P")
+            InlineKeyboardButton(text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/DAD_KI_PRINCESS")
         ]
     ]
 )

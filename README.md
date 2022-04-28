@@ -2,7 +2,7 @@
 <p>
 
 <p align="center">
-    <a href="https://github.com/naira0011/HNRMUSIC/stargazers"><img src="https://img.shields.io/github/stars/Naira0011/HNRMUSIC?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/Princessop/HNRMUSIC/stargazers"><img src="https://img.shields.io/github/stars/Princessop/HNRMUSIC?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
     <a href="https://github.com/Princessop/HNRMUSIC"> <img src="https://img.shields.io/github/repo-size/Naira0011/HNRMUSIC?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -51,10 +51,10 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 - `/end` - stop music play
 
 <h2 align="center"> Deploy To Heroku </h2>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Naira0011/HNR-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Princessop/HNR-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 
 ### Special Credits 💖
-- [亗『☆♡N⋆A⋆I⋆R⋆A™♡☆』亗](https://github.com/Naira0011): Developer
+- [◦•●❤♡ 𝙋𝙍𝙄𝙉𝘾𝙀𝙎𝙎 ♡❤●•◦](https://github.com/Princessop): Developer
 
 ### Support 🎑
 <a href="https://telegram.me/RoyalFriendsforever"><img src="https://img.shields.io/badge/-RoyalFriendsforever-blue.svg?style=for-the-badge&logo=Telegram"></a>

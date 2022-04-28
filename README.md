@@ -13,7 +13,7 @@
     <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-<p align="center"><a href="https://t.me/RoyalFriendsforever"><img src="https://te.legra.ph/file/a47a16a9822a8d39a9322.jpg"></a></p>
+<p align="center"><a href="https://t.me/RoyalFriendsforever"><img src="https://te.legra.ph/file/d1607c328763613a5763a.jpg"></a></p>
 
 Telegram bot for streaming music and video on telegram by the help of Telegram VideoChat Feature, 
 Powered by <a href="https://github.com/pytgcalls/pytgcalls">PyTgCalls</a>
